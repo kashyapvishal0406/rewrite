@@ -1,1 +1,0 @@
-<?php include('includes/marketing/agreement.php'); ?>
